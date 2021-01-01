@@ -72,7 +72,7 @@ for i,j,k in zip(df['Roll'],df['DOB'],df['Name']):
 
 
 ## Status
-Project is: _finished_. If you would like us to implement the project end-to-end for you please book a [session](https://link.harshgupta.com/5e580). 
+Project is: _finished_. 
 
 
 <a href="https://www.linkedin.com/in/ishug/" target="_blank">LinkedIn</a>, or 
